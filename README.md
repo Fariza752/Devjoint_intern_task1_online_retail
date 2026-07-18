@@ -4,6 +4,9 @@ Online Retail dataset (UK-based e-commerce, ~525,000 sətir) üzərində
 tam data cleaning və exploratory data analysis (EDA) layihəsi.
 
 ## Dataset
+## Dataset mənbəyi
+Dataset Kaggle-dan əldə edilib: 
+https://www.kaggle.com/datasets/lakshmi25npathi/online-retail-dataset
 UCI Online Retail — 01/12/2010 - 09/12/2011 tarixləri arası UK-based 
 qeyri-mağaza onlayn pərakəndə satıcının bütün əməliyyatları.
 Sütunlar: Invoice, StockCode, Description, Quantity, InvoiceDate, 
